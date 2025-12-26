@@ -1,5 +1,3 @@
-# loan-ai-management-system
-AI-powered Loan Management System with ML predictions, RAG-based chatbot, EMI tracking &amp; AWS deployment
 # 🏦 AI-Powered Loan Management System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
