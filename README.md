@@ -90,7 +90,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-```
 
 ## 📝 Usage
 
@@ -116,4 +115,4 @@ This is a learning project. Feedback and suggestions are welcome!
 
 ⭐ **If you find this project interesting, please star the repository!**
 
-*Last Updated: [Today's Date]*
+*Last Updated: [26/12/2025]*
