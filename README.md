@@ -81,7 +81,7 @@ This system combines multiple ML models and modern AI techniques to revolutioniz
 ## 🔧 Installation & Setup
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/loan-ai-management-system.git
+git clone https://github.com/Vaibhav-Lohar-28/loan-ai-management-system
 cd loan-ai-management-system
 
 # Create virtual environment
