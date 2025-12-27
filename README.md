@@ -108,8 +108,8 @@ This is a learning project. Feedback and suggestions are welcome!
 **[Vaibhav Lohar]**
 - 🎓 3rd Year B.Tech - Data Science
 - 💼 Seeking Data Science Internship
-- 📧 [Your Email]
-- 🔗 [LinkedIn Profile]
+- 📧 [suravanshivaibhava2805@gmail.com]
+- 🔗 [https://www.linkedin.com/in/vaibhav-lohar-38b78a28b/]
 
 ---
 
