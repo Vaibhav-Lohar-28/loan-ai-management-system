@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) 
 [![ML](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)](https://scikit-learn.org/)
-[![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
+[![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]() 
 
 An intelligent loan management system powered by Machine Learning and AI, featuring predictive analytics, RAG-based chatbot, and automated EMI tracking.
 
