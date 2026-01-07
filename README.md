@@ -1,4 +1,4 @@
-# 🏦 AI-Powered Loan Management System 
+# 🏦 AI-Powered Loan Management System  
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)](https://scikit-learn.org/)
