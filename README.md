@@ -12,7 +12,7 @@ This system combines multiple ML models and modern AI techniques to revolutioniz
 
 - **Loan Default Prediction**: Predict potential defaulters before they miss payments
 - **Customer Segmentation**: ML-based clustering for targeted strategies
-- **Intelligent Chatbot**: RAG-powered conversational AI for loan queries
+- **Intelligent Chatbot**: RAG-powered conversational AI for loan queries 
 - **EMI Management**: Automated tracking, calculations, and notifications
 - **Sentiment Analysis**: Analyze customer feedback and satisfaction
 - **Predictive Analytics**: Real-time dashboards with actionable insights
